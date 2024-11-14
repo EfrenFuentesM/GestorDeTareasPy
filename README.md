@@ -26,4 +26,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna m
 
 ## Autor
 
-Este proyecto fue creado por [Tu Nombre].
+Este proyecto fue creado por [Crgi00].
